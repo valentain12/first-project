@@ -1,1 +1,8 @@
 1. Пройти пару тем по Git.всем привет!
+* жирный *
+** жирный **
+~~text~~
+1. good
+2. very good
+[Яндекс](https://www.yandex.ru) 
+[Яндекс](https://www.yandex.ru "Я Yandex!") 
